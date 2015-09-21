@@ -1,0 +1,13 @@
+Post mortem
+
+Challenges:
+
+	I found my greatest challenge was the language itself. I could figure out what needed to be said immediately, but the actual code kept eluding me until someone came along to help me out.
+
+Strengths:
+
+	Pseudo code is my best friend. Without it I would never be able to do anything. With it I was able to figure stuff out so I could start looking how to code it.
+
+What would I do differently:
+
+	I would probably ask for help sooner.
